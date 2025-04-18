@@ -31,6 +31,8 @@
     "@types/node": "^20.8.3"
   },
   "dependencies": {
-    "@playwright/test": "^1.49.1"
+    "@playwright/test": "^1.49.1",
+    "live": "^0.1.19",
+    "server": "^0.0.3"
   }
 }
